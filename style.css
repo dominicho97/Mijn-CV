@@ -1,0 +1,17 @@
+
+
+
+
+
+  .container{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr ;
+
+    align-content: center;
+    grid-auto-rows: 200px;
+
+  justify-items: start;
+  
+  }
+ 
