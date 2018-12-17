@@ -10,11 +10,13 @@
 
   p{
     font-size: 20px;
+    
   }
   
 
 .one{
-  font-family: 
+  
+  -webkit-text-fill-color: rgb(92, 166, 190); 
 }
 
 .container{
